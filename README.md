@@ -14,7 +14,7 @@
       Technical Documents
     </td>
     <td>
-      <a href="https://github.com/appasaheb4/confluence/blob/main/doc/technical-documents/frontend-coding-guidelines.md" target="_blank"> </a> 
+      <a href="https://github.com/appasaheb4/confluence/blob/main/doc/technical-documents/frontend-coding-guidelines.md" target="_blank">Frontend Coding Guidelines</a> 
     </td>
   </tr>
 </table>
@@ -23,5 +23,5 @@
 
 Email: <a href="mailto:onlyappasaheb4@gmail.com" target="_blank">onlyappasaheb4@gmail.com</a><br />
 Contact No / WhatsApp : <a href="https://api.whatsapp.com/send?phone=+919260303151">+91 9260303151</a> <br />
-YouTube: <a href="https://www.youtube.com/@techabl" target="_blank"> </a> <br />
-Github : <a href="https://www.github.com/appasaheb4" target="_blank"> </a> <br />
+YouTube: <a href="https://www.youtube.com/@techabl" target="_blank">www.youtube.com/@techabl</a> <br />
+Github : <a href="https://www.github.com/appasaheb4" target="_blank">www.github.com/appasaheb4</a> <br />
