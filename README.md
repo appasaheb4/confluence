@@ -15,7 +15,8 @@
     </td>
     <td>
       <a href="https://github.com/appasaheb4/confluence/blob/main/doc/technical-documents/frontend-coding-guidelines.md" target="_blank"> </a> 
-      [go](https://github.com/appasaheb4/confluence/blob/main/doc/technical-documents/frontend-coding-guidelines.md){:target="_blank" rel="noopener"}
+      <a href="placeholder.com" target="_blank">Opens in new tab</a>
+       <base target="_blank">
     </td>
   </tr>
 </table>
