@@ -14,7 +14,7 @@
       Technical Documents
     </td>
     <td>
-      <a href="https://github.com/appasaheb4/confluence/blob/main/doc/technical-documents/frontend-coding-guidelines.md" target="_blank"> Frontend Coding Guidelines</a> 
+      [Frontend Coding Guidelines](https://github.com/appasaheb4/confluence/blob/main/doc/technical-documents/frontend-coding-guidelines.md){:target="_blank"}.
     </td>
   </tr>
 </table>
